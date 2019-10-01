@@ -7,4 +7,4 @@
 
 echo -e "\nThis is a shell script! \n" #what does -e do?
 
-#exit
+exit
